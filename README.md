@@ -12,6 +12,10 @@ Back end: Java Servlet
 ![Image Description](https://github.com/TuanLH190/PRJ_ASSIGNMENT/blob/main/Screenshot%202025-01-18%20211131.png)
 ![Image Description](https://github.com/TuanLH190/PRJ_ASSIGNMENT/blob/main/Screenshot%202025-01-18%20211146.png)
 
+![Image Description](https://github.com/TuanLH190/PRJ_ASSIGNMENT/blob/main/Screenshot%202025-01-18%20211146.png)
+![Image Description](https://github.com/TuanLH190/PRJ_ASSIGNMENT/blob/main/Screenshot%202025-01-18%20211146.png)
+![Image Description](https://github.com/TuanLH190/PRJ_ASSIGNMENT/blob/main/Screenshot%202025-01-18%20211146.png)
+
 
 ## Chức Năng:
 ### 2.1 Đăng ký và Đăng Nhập
@@ -28,7 +32,6 @@ Back end: Java Servlet
 -    
 ### 2.5 Tìm Kiếm và Lọc Sản Phẩm:
 - Cung cấp các bộ lọc (theo giá, loại sản phẩm, kích thước, màu sắc) để người dùng dễ dàng tìm kiếm sản phẩm phù hợp.
-- 
-### 2.6 Hệ Thống Nhận Xét và Đánh Giá:
-- Ghi Nhận Phản Hồi: Cho phép người dùng để lại nhận xét và đánh giá sản phẩm. Sử dụng cơ sở dữ liệu để lưu trữ và hiển thị thông tin này.
-- 
+  
+
+
