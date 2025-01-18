@@ -5,6 +5,7 @@ Hiện nay với sự phát triển vượt bậc của xã hội , cùng với 
 
 ### 1.2/Công nghệ sử dụng
 Front End :HTML, CSS JavaScript
+
 Back end: Java Servlet
 
 ### 1.3/Giao diện người dùng
