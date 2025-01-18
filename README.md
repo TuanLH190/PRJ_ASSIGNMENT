@@ -20,7 +20,7 @@ Back end: Java Servlet
 ## Chức Năng:
 ### 2.1 Đăng ký và Đăng Nhập
 -	Tài khoản sẽ lưu trữ thông tin của người dung bao gồm số điện thoại , địa chỉ cá nhân ,email
--	
+  
 ### 2.2 Hiển thị danh sách quần áo đang được bán
 -	Mỗi bộ quần áo sẽ hiện lên dưới dạng là một hình ảnh và khi click vào sẽ hiện lên những thông tin liên quan về bộ quần áo đó.
 
