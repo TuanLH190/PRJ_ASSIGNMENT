@@ -14,7 +14,7 @@ Back end: Java Servlet
 
 ![Image Description](https://github.com/TuanLH190/PRJ_ASSIGNMENT/blob/main/Screenshot%202025-01-18%20212953.png)
 ![Image Description](https://github.com/TuanLH190/PRJ_ASSIGNMENT/blob/main/Screenshot%202025-01-18%20212934.png)
-![Image Description](https://github.com/TuanLH190/PRJ_ASSIGNMENT/blob/main/Screenshot%202025-01-18%20211146.png)
+
 
 
 ## Chức Năng:
