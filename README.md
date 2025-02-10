@@ -5,6 +5,7 @@ Given the growing popularity of online purchasing, opening an online fashion sto
 
 ### 1.2/Recommended technologies:
 Front End :HTML, CSS JavaScript, Bootstrap.
+
 Back End: Servlet, Java, SQL Server.
 
 ## Functions:
