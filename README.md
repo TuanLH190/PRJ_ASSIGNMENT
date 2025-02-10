@@ -1,13 +1,12 @@
 # PRJ_ASSIGNMENT
-## Giới thiệu
-(tham khảo: [Coolmate](https://www.coolmate.me))
-### 1.1/Tổng quan
-Hiện nay với sự phát triển vượt bậc của xã hội , cùng với nhu cầu may mặc của con người ngày càng phát triển và đa dạng thể loại. Việc xây dựng một trang web mua bán quần áo giúp cho mọi người có thể tìm được một bộ trang phục đẹp mắt và gây sức hút cho người mua. Thông tin quần ao sẽ được lưu lại trong giỏ hang khi người mua  đã ấn chọn và sẽ được thanh toán thông qua mã qr dựa trên thông tin mà khách hang đã tạo tài khoản.
+## Introduction
+### 1.1/Overview
+Given the growing popularity of online purchasing, opening an online fashion store is a desirable and extremely promising business idea in today's market. Due to its ease of use and price comparison, more customers are choosing this format. The internet fashion market is growing, enabling a worldwide consumer base free from regional restrictions. Online retailers also make it possible for customers to have individualized shopping experiences by offering specials and product recommendations. 
 
-### 1.2/Công nghệ sử dụng
+### 1.2/Recommended technologies:
 Front End :HTML, CSS JavaScript, Bootstrap
+Back End: Servlet, Java, SQL Server
 
-Back end: Java Servlet
 
 ### 1.3/Giao diện người dùng
 ![Image Description](https://github.com/TuanLH190/PRJ_ASSIGNMENT/blob/main/Screenshot%202025-01-18%20211108.png)
