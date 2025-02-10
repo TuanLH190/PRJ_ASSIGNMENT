@@ -4,8 +4,8 @@
 Given the growing popularity of online purchasing, opening an online fashion store is a desirable and extremely promising business idea in today's market. Due to its ease of use and price comparison, more customers are choosing this format. The internet fashion market is growing, enabling a worldwide consumer base free from regional restrictions. Online retailers also make it possible for customers to have individualized shopping experiences by offering specials and product recommendations. 
 
 ### 1.2/Recommended technologies:
-Front End :HTML, CSS JavaScript, Bootstrap
-Back End: Servlet, Java, SQL Server
+Front End :HTML, CSS JavaScript, Bootstrap.
+Back End: Servlet, Java, SQL Server.
 
 ## Functions:
 ### 2.1/For users
